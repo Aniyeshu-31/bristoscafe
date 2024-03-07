@@ -1,110 +1,16 @@
 @media screen and (max-width:768px){
-   
    .title{
-     width:768px;
+     width:100vw;
     color: #3E4452;
      display: flex;
      justify-content: center;
      align-items: center;
    }
    .ImageContainer{
-     width:768px;
+    width:100vw;
      margin-top: 20px;
      display: flex;
-     justify-content: space-between;
+     justify-content: space-around;
    }
-   .leftImage{
-        margin-left: 250px;
-   }
-   .rightImage{
-         margin-right: 250px;
-   }
-}
-@media screen and (max-width:668px){
-   .title{
-      width:668px;
-    color: #3E4452;
-     display: flex;
-     justify-content: center;
-     align-items: center;
-   }
-   .ImageContainer{
-    width:668px;
-     margin-top: 20px;
-     display: flex;
-     justify-content: space-between;
-   }
-   .leftImage{
-        margin-left: 200px;
-   }
-   .rightImage{
-         margin-right: 200px;
-   }
-}
-@media screen and (max-width:568px){
-   .title{
-    width: 568px;
-    color: #3E4452;
-     display: flex;
-     justify-content: center;
-     align-items: center;
-   }
-   .ImageContainer{
-    width: 568px;
-     margin-top: 20px;
-     display: flex;
-     justify-content: space-between;
-   }
-   .leftImage{
-        margin-left: 150px;
-   }
-   .rightImage{
-         margin-right: 150px;
-   }
-}
-@media screen and (max-width:468px){
-   .title{
-     width:468px;
-    color: #3E4452;
-     display: flex;
-     justify-content: center;
-     align-items: center;
-   }
-   .ImageContainer{
-     width:468px;
-     margin-top: 20px;
-     display: flex;
-     justify-content: space-between;
-   }
-   .leftImage{
-        margin-left: 100px;
-   }
-   .rightImage{
-
-         margin-right: 100px;
-   }
-}
-@media screen and (max-width:368px){
-   .title{
-       width:368px;
-    color: #3E4452;
-     display: flex;
-     justify-content: center;
-     align-items: center;
-   }
-   .ImageContainer{
-     width:368px;
-     margin-left: auto;
-     margin-top: 20px;
-     display: flex;
-     justify-content: space-between;
-   }
-   .leftImage{
- 
-        margin-left: 50px;
-   }
-   .rightImage{
- 
-         margin-right: 50px;
-   }
+  
 }
