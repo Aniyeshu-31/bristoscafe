@@ -1,8 +1,12 @@
 import React from 'react'
-
+import Catalogue from './components/Catalogue/page'
+import Footer from './components/Footer/page'
 const page = () => {
   return (
-    <div>page</div>
+   <div className="maincontainer">
+    <Catalogue/>
+    <Footer/>
+   </div>
   )
 }
 
