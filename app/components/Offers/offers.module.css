@@ -1,9 +1,5 @@
 @media screen and (max-width:768px){
-  .container{
-    margin-top: 20px;
-  }
    .title{
-    font-size: 1rem;
      width:100vw;
     color: #3E4452;
      display: flex;
@@ -11,7 +7,7 @@
      align-items: center;
    }
    .ImageContainer{
-    width:100vw;
+     width:100vw;
      margin-top: 20px;
      display: flex;
      justify-content: space-around;
